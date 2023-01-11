@@ -2,7 +2,8 @@
 ### i took from lz-string the approach with best compression ratio (funny also that uses utf16 chinese characters 😂)
 ##### kick the bench.js and check the results 
 
-### i saw the base64 approach for code "hiding"/obfuscation and binary loading and so on this compression + an compiled script (all in 1 file) would be nice not really necessary 👍 (against that it's funny that encodes in chinese 😂)
+### i saw the base64 approach for code "hiding"/obfuscation and binary loading and so on
+### with this compression + an compiled script (all in 1 file) would be nice not really necessary 👍 (against that it's funny that encodes in chinese 😂)
 
 
 
